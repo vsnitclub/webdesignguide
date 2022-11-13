@@ -1,2 +1,2 @@
 # webdesignguide
-visist: https://vsnitclub.github.io/webdesignguide/
+visit: https://vsnitclub.github.io/webdesignguide/
